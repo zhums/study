@@ -1,2 +1,2 @@
 # study
-fro study purpose
+For study purpose
